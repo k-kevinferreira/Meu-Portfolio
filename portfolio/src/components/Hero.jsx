@@ -20,9 +20,8 @@ function Hero() {
             </h1>
 
             <p className="mt-8 text-[18px] leading-9 text-[#5b6475] max-w-lg">
-              Sou estudante de Engenharia de Software com foco em desenvolvimento
-              web, criando projetos práticos e evoluindo constantemente em
-              tecnologias modernas para construir soluções profissionais.
+              Graduando em Engenharia de Software com foco em desenvolvimento Full Stack,
+              criando aplicações web completas utilizando tecnologias modernas e boas práticas de engenharia de software.
             </p>
           </div>
 
