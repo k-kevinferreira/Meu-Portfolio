@@ -19,6 +19,7 @@ projetos desenvolvidos
 área de contato
 Este site serve tanto como apresentação profissional para recrutadores quanto vitrine de projetos para clientes.
 
+
 🛠 Tecnologias Utilizadas
 Front-end
 React
@@ -30,14 +31,14 @@ Ferramentas
 Git
 GitHub
 Vercel (deploy)
-📂 Estrutura do Projeto
-portfolio │ ├── public │ └── projetos │ ├── src │ │ │ ├── components │ │ ├── Navbar.jsx │ │ ├── Hero.jsx │ │ ├── About.jsx │ │ ├── Tech.jsx │ │ ├── Projects.jsx │ │ ├── Contact.jsx │ │ └── Footer.jsx │ │ │ ├── App.jsx │ ├── main.jsx │ └── index.css │ └── package.json
+
 
 📑 Seções do Portfólio
 Navbar
 Barra de navegação fixa no topo da página.
 
-Permite acesso rápido às seções:
+
+Permite acesso rápido às seções
 
 Início
 Sobre
@@ -47,6 +48,7 @@ Contato
 Hero Section
 Primeira seção visualizada ao entrar no site.
 
+
 Apresenta:
 
 título profissional
@@ -55,6 +57,7 @@ chamada para ação
 Sobre Mim
 Seção destinada à apresentação profissional do desenvolvedor.
 
+
 Contém:
 
 trajetória no desenvolvimento
@@ -62,6 +65,7 @@ trajetória no desenvolvimento
 foco profissional
 Tecnologias
 Lista das principais tecnologias utilizadas no desenvolvimento.
+
 
 Tecnologias exibidas:
 
@@ -75,6 +79,7 @@ Banco de Dados
 APIs
 Projetos
 Seção destinada à apresentação de projetos desenvolvidos.
+
 
 Cada projeto apresenta:
 
@@ -94,8 +99,8 @@ Frontend Mentor Challenge
 Contato
 Seção destinada ao contato profissional.
 
-Contém:
 
+Contém:
 email
 link para GitHub
 link para LinkedIn
@@ -104,7 +109,6 @@ formulário de contato
 O projeto foi desenvolvido com layout responsivo utilizando Tailwind CSS.
 
 Compatível com:
-
 desktop
 notebook
 tablet
