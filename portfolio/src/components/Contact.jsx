@@ -66,7 +66,7 @@ function Contact() {
           <div className="space-y-6">
             <div className="flex items-center gap-4">
               <Mail className="text-[#24385b]" />
-              <span className="text-[#0f172a]">seuemail@email.com</span>
+              <span className="text-[#0f172a]">k.kevinferreira@gmail.com</span>
             </div>
 
             <div className="flex items-center gap-4">
