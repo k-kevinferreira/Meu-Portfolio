@@ -45,34 +45,6 @@ Este site serve tanto como **apresentação profissional para recrutadores** qua
 
 ---
 
-# 📂 Estrutura do Projeto
-
-portfolio
-│
-├── public
-│ └── projetos
-│
-├── src
-│ │
-│ ├── components
-│ │ ├── Navbar.jsx
-│ │ ├── Hero.jsx
-│ │ ├── About.jsx
-│ │ ├── Tech.jsx
-│ │ ├── Projects.jsx
-│ │ ├── Contact.jsx
-│ │ └── Footer.jsx
-│ │
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-│
-└── package.json
-
-
-
----
-
 # 📑 Seções do Portfólio
 
 ## Navbar
