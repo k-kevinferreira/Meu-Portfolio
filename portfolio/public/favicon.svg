@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Kevin Ferreira favicon">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#24385b" />
+      <stop offset="100%" stop-color="#0288d1" />
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="128" r="128" fill="url(#bg)" />
+  <path d="M70 52h36v72l53-72h44l-59 77 63 75h-46l-55-67v67H70z" fill="#ffffff" />
+</svg>
